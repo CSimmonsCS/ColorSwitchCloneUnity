@@ -1,0 +1,2 @@
+# ColorSwitchCloneUnity
+This project uses C# &amp; Unity to build a replica of the popular mobile game "Color Switch".  The game tasks the user to bounce a ball through the color wheels of four colors.  The ball can only pass through the wheel that is the same color as the ball.  The user bounces the ball using the spacebar or left-click to bounce the ball.  When the user passes each wheel, a color changer pellet will alter the color of the user's ball.  If the ball touches the wrong color, the game will reset.  Enjoy!
